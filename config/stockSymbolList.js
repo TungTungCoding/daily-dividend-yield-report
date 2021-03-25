@@ -1,3 +1,3 @@
 export const stockSymbolList = [
-  "aapl", "t", "spot", "zzzzz", "abbv", "o"
+  "aapl", "t", "spot", "zzzzz"
 ]
