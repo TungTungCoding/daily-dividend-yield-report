@@ -10,7 +10,7 @@ on:
     - cron: "0 10 * * 1,2,3,4,5"
 
 jobs:
-  build:
+  send-report:
     runs-on: ubuntu-latest
 
     strategy:
